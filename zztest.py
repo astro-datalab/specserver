@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__authors__ = 'Mike Fitzpatrick <fitz@noao.edu>'
+__authors__ = 'Mike Fitzpatrick <mike.fitzpatrick@noirlab.edu>'
 __version__ = 'v1.0.0'
 
 

@@ -2,7 +2,7 @@
 #
 #  SPECSERVER -- Service endpoints for the Spectroscopic Data Service
 
-__authors__ = 'Mike Fitzpatrick <fitz@noao.edu>'
+__authors__ = 'Mike Fitzpatrick <mike.fitzpatrick@noirlab.edu>'
 __version__ = 'v1.0.0'
 
 
@@ -100,7 +100,7 @@ def create_parser():
 
     parser.add_argument("-s", "--sync", action="store_true")
     parser.add_argument("--config", default="spec.conf", type=str)
-    parser.add_argument("--host", default="gp07.datalab.noao.edu", type=str)
+    parser.add_argument("--host", default="gp07.datalab.noirlab.edu", type=str)
     parser.add_argument("--port", default=6998, type=int)
 
     return parser
