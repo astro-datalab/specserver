@@ -1,5 +1,5 @@
-
-
+> [!IMPORTANT]
+> Update 2023-Sept-6: This repository has been archived, and is now read-only. The spectroscopic data service enabled by this code has been retired. Please use the newer SPARCL service from here on: https://astrosparcl.datalab.noirlab.edu
                         
 # Spectroscopic Data Service
 
